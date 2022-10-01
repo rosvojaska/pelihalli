@@ -13,3 +13,7 @@ Seimitsu
 - Ilmeisesti ihan hyvä myös(?).
 
 
+## Napit
+
+Crown SDB-202
+- tätä on kehuttu
